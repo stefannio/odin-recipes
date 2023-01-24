@@ -1,0 +1,15 @@
+* {
+    background-color:darkseagreen;  
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+#maintitle {
+    font-family: "Copperplate", "Papyrus";
+}
