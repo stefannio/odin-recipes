@@ -15,6 +15,10 @@ img {
     font-family: "Copperplate", "Papyrus";
 }
 
+#maintitle.bigger {
+    font-size: 45px;
+}
+
 a {
     background-color: #199319;
     color: white;
