@@ -13,3 +13,10 @@ img {
 #maintitle {
     font-family: "Copperplate", "Papyrus";
 }
+
+a {
+    background-color: #199319;
+    color: white;
+    padding: 15px 15px;
+    text-decoration: none;
+}
